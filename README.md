@@ -3,8 +3,8 @@
 
 I am working on a Bash shell script I call funkRadio.
 
-The script will let you hear the latest international news broadcasts 
-alongside your favorite songs.
+The script gives you the latest international news broadcasts 
+and entertains you with your favorite songs.
 
 
 
