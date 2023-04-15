@@ -2,7 +2,8 @@
 👀 ...
 
 FunkRadio is a linux bash script that gives you the latest international news broadcasts 
-and entertains with your favorite songs. Start by going to https://github.com/EloHope/funkradio.start.here
+and entertains with your favorite songs. Start by going to 
+https://github.com/EloHope/funkradio.start.here/blob/main/Overview.md
 
 
 
