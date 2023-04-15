@@ -1,10 +1,8 @@
 
 👀 ...
 
-I am working on a Bash shell script I call funkRadio.
-
-The script gives you the latest international news broadcasts 
-and entertains you with your favorite songs.
+FunkRadio is a linux bash script that gives you the latest international news broadcasts 
+and entertains with your favorite songs. Start by going to https://github.com/EloHope/funkradio.start.here
 
 
 
