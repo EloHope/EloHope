@@ -8,8 +8,7 @@ FunkRadio is a linux bash script that gives you the latest international news br
 and entertains with your favorite songs. Start by going to 
 https://github.com/EloHope/funkradio.start.here/blob/main/Overview.md
 
-I also include detailed instructions on how to install Arch Linux - in Finnish and in English
-(translated from Finnish by Google Translator I am afraid).
+I also include detailed instructions on how to install Arch Linux - in Finnish and in English.
 
 
 
