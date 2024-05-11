@@ -1,7 +1,7 @@
 
 I am interested in news and music. So I have developed two Linux bash scripts for downloading the latest internatonal radio news and playing them together with songs from mp3 music playlists.
 
-InfRadio is a script that goes on playing music and up-to-date news indefinitely. 
+InfRadio is a script that goes on playing music and up-to-date news indefinitely: https://github.com/EloHope/infRadio 
 
 With FunkRadio you can select individual news broadcasts for listening alongside  your favorite songs. 
 
