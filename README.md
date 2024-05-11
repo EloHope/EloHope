@@ -5,7 +5,9 @@ InfRadio is a script that goes on playing music and up-to-date news indefinitely
 
 With FunkRadio you can select individual news broadcasts for listening alongside  your favorite songs. 
 
-For an introduction go to https://github.com/EloHope/funkradio.start.here/blob/main/Overview.md
+For an introduction to funkRadio go to https://github.com/EloHope/funkradio.start.here/blob/main/Overview.md
+
+A script to make playlists on the basis of directories, album or artist names, or song duration: https://github.com/EloHope/make_playlist/tree/main
 
 
 
