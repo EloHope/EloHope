@@ -1,5 +1,5 @@
 
-I am interested in news and music. So I have developed two Linux Bash scripts for downloading latest internatonal radio news and playing them together with songs from mp3 music playlists.
+I am interested in news and music. So I have developed two Linux Bash scripts for downloading latest international radio news and playing them together with songs from mp3 music playlists.
 
 InfRadio is a script that goes on playing music and up-to-date news indefinitely: https://github.com/EloHope/infRadio.
 
